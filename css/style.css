@@ -1,4 +1,10 @@
+/*tp1
 main {
     height: 500px;
+    background: linear-gradient(yellow, red);
+}*/
+
+main {
+    height: 950px;
     background: linear-gradient(yellow, red);
 }
